@@ -1,0 +1,1 @@
+addSbtPlugin("com.eed3si9n" % "sbt-assembly" % "0.14.10") // You may need this plugin to correctly build artifacts
